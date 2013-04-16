@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Install To HardDisk
+Name[tr]=Sabit Disk'e Kur
+GenericName=Install To HardDisk
+GenericName[tr]=Sabit Disk'e Kur
+Comment=Install Pardus to HarDisk
+Comment[tr]=Pardus ' u sabit diske kur
+Exec=gksudo /usr/bin/live-installer
+Icon=live-installer
+Terminal=False
+Type=Application
+Categories=System;

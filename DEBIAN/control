@@ -1,0 +1,10 @@
+Package: pardus-installer
+Version: 2013-4
+Architecture: all
+Maintainer: Cavit VURAL <cavit.vural@adak.com.tr>
+Installed-Size: 2000
+Depends: python (>= 2.4), python (<< 3), python-gtk2, python-glade2, python-parted, gparted, inxi, python-geoip
+Section: admin
+Priority: optional
+Description: Pardus Live Installer
+ Live installler for Pardus 2013
